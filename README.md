@@ -21,3 +21,6 @@
 - **Python**: Linguagem de programação principal.
 - **Tkinter**: Para a interface gráfica.
 - **PIL (Pillow)**: Para manipulação de ícones e imagens.
+
+###
+- **Certifique-se de instalar as dependências usando**:  pip install -r requirements.txt.
